@@ -6,4 +6,4 @@ for numero in range (5):
         print("encontrado". buscar)
         break
     else:
-        print("no encontrado el número buscado")
+        print("no encontré el número buscado")
