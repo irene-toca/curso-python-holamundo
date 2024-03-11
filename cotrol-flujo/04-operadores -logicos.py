@@ -5,5 +5,5 @@ gas = False
 encendido = True
 edad = 18
 
-if not gas and (encendido or edad > 17): # Al final esto termina devolviendo True
+if not gas and encendido and edad > 17: 
     print("Puedes avanzar")
